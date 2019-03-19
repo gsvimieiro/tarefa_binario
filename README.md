@@ -30,3 +30,7 @@ Maven
 # Teste Unitário e teste de Integração
 
 Não implementados
+
+# Modo de testar
+
+Sugestão através do Postman
