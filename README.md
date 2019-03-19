@@ -33,4 +33,13 @@ Não implementados
 
 # Modo de testar
 
-Sugestão através do Postman
+Sugestão através do Postman rodar duas requisições REST via POST
+
+/v1/diff/{id}/right com o arquivo enviado no corpo da requisição
+e
+/v1/diff/{id}/left com o arquivo enviado no corpo da requisição
+
+Por fim rodar uma requisição REST via GET
+
+/v1/diff/{id}/diff  
+
